@@ -4,7 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Lyfore</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+
 </head>
 <body>
     <form id="form1" runat="server">
@@ -17,7 +19,13 @@
         TODO:
         HINTERGRUND
         
-        
+        COLORS:
+        #eac5bd
+        #eadbbd
+        #e2eabd
+        #cbeabd
+        #bdeac5
+        #bdeadb
           -->
     
         <div id="header">
@@ -28,7 +36,7 @@
 
         </div>
 
-        <div id="footer">
+        <div id="footer" class="color_footer">
 
 
         </div>
