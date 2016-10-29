@@ -251,3 +251,8 @@ ModelManifest.xml
 /WebApplication1/WebApplication1/Web.config
 *.config
 /WebApplication1/lyfore.sln
+/Lyfore/Lyfore/scripts/ai.0.22.19-build00125.js
+/Lyfore/Lyfore/scripts/ai.0.22.19-build00125.min.js
+/Lyfore/lyfore.sln
+/Lyfore/Lyfore/Properties/AssemblyInfo.cs
+/Lyfore/Lyfore/lyfore.csproj
