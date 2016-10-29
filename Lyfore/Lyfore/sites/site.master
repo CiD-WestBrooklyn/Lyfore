@@ -42,12 +42,3 @@
 </html>
 
 
-<!-- 
-
-
-<%@ Page Title="#" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Lyfore.Default"%>
-
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-
-
--->

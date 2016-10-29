@@ -20,18 +20,7 @@
         #bdeadb
           -->
     
-        <div id="header">
-
-        </div>
-
-        <div id="body">
-
-        </div>
-
-        <div id="footer" class="color_footer">
-
-
-        </div>
+     
 
     </div>
 
