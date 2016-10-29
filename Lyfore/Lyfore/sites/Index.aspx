@@ -8,9 +8,36 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+
+
+
+
+
+    <div id="site"><!-----
+        TODO:
+        HINTERGRUND
+        
+        
+          -->
     
+        <div id="header">
+
+        </div>
+
+        <div id="body">
+
+        </div>
+
+        <div id="footer">
+
+
+        </div>
+
     </div>
+
+
+
+
     </form>
 </body>
 </html>
