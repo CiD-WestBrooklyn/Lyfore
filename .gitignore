@@ -256,3 +256,6 @@ ModelManifest.xml
 /Lyfore/lyfore.sln
 /Lyfore/Lyfore/Properties/AssemblyInfo.cs
 /Lyfore/Lyfore/lyfore.csproj
+/Lyfore/Lyfore.Tests/UnitTest1.cs
+/Lyfore/Lyfore.Tests/Lyfore.Tests.csproj
+/Lyfore/Lyfore.Tests/Properties/AssemblyInfo.cs
