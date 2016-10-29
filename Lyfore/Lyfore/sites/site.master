@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title><%: Page.Title %></title>
-        <link href="#" rel="shortcut icon" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="css/Index.css">
 
     </head>
         <body>
@@ -32,6 +32,13 @@
 
 
                <!-- Footer -->
+                <div id="footer" class="color_footer">
+
+                    footer
+
+                </div>
+
+
                 <footer>
 
                 </footer>
