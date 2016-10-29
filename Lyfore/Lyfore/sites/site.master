@@ -6,7 +6,7 @@
     <head runat="server">
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title><%: Page.Title %> - My ASP.NET Application</title>
+        <title><%: Page.Title %></title>
         <link href="#" rel="shortcut icon" type="image/x-icon" />
 
     </head>
@@ -24,8 +24,9 @@
                 <!-- Site Content -->
                    <div class="container body-content">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+
                     </asp:ContentPlaceHolder>
-                    <hr />
                    </div>
 
 
