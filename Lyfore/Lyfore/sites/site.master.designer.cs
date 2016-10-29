@@ -10,7 +10,7 @@
 namespace Lyfore {
     
     
-    public partial class Default {
+    public partial class SiteMaster {
         
         /// <summary>
         /// MainContent-Steuerelement
