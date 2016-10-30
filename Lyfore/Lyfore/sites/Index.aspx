@@ -19,9 +19,13 @@
                 #bdeac5
         #bdeadb
           -->
-    
+    <div class="fullscreen-bg">
+        <video loop muted autoplay poster="img/background.jpg" class="fullscreen-bg__video">
+            <source src="img/background.mp4" type="video/mp4">
+        </video>
+    </div>
 
-        <div id="box">
+        <div id="panel" class="panel panel-default">
             <button class="btn btn-primary" type="button">
               GET STARTED
             </button>
