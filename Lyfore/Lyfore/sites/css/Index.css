@@ -61,3 +61,16 @@ body{
     width: auto;
     height: auto;
 }
+
+.spacer{
+    min-height: 850px;
+}
+
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+
+.textconfi{
+    color: white;
+}

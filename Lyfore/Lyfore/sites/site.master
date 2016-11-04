@@ -28,7 +28,7 @@
                         <div class="collapse navbar-collapse" id="myNavbar">
                           <ul class="nav navbar-nav">
                             <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
+                            <li><a href="/sites/admin.aspx">About</a></li>
                             <li><a href="#">Projects</a></li>
                             <li><a href="#">Contact</a></li>
                           </ul>
@@ -44,7 +44,7 @@
 
       
                 <!-- Site Content -->
-                   <div class="container body-content">
+                   <div class="body-content">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
 
 
