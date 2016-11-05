@@ -1,7 +1,5 @@
 ﻿.color_footer{
-
     background-color: #6b7ca0;
-
 }
 
 .navbar-inverse {
@@ -18,16 +16,16 @@
 
 
 #panel{
-        background-color: rgba(999, 999, 999, 0.3);
-            width: 100%;
+    background-color: rgba(999, 999, 999, 0.3);
+    width: 100%;
     left: 0;
     right: 0;
     position: absolute;
     height: 4em;
-        text-align: center;
+    text-align: center;
 }
 #panel button{
-        display: inline-block;
+    display: inline-block;
     margin-top: 11px;
 }
 
@@ -35,8 +33,9 @@
     right: 0;
     bottom: 0;
     left: 0;
-    position: absolute;
+    position: relative;
     width: 100%;
+    height: 50px;
 
 }
 
@@ -63,7 +62,7 @@ body{
 }
 
 .spacer{
-    min-height: 850px;
+    min-height: 935px;
 }
 
 ::-webkit-scrollbar {
@@ -74,3 +73,12 @@ body{
 .textconfi{
     color: white;
 }
+
+.toppadding{
+    padding-top:100px;
+}
+
+.picmiddle{
+    margin-left: 30%;
+}
+
