@@ -1,4 +1,4 @@
 {
     "name": "Lyfore",
-    "stack": "heroku-16"
+    "stack": "cedar-14"
 }
