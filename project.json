@@ -32,10 +32,10 @@
   },
 
   "frameworks": {
-    "netcoreapp1.0": {
+    "netcoreapp2.2": {
       "imports": [
         "dotnet5.6",
-        "portable-net45+win8"
+        "portable-net461"
       ]
     }
   },
@@ -53,10 +53,9 @@
 
   "publishOptions": {
     "include": [
-      "wwwroot",
-      "Views",
-      "Areas/**/Views",
-      "appsettings.json",
+      "css",
+      "img",
+      "scripts",
       "web.config"
     ]
   },
