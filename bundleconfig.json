@@ -1,0 +1,19 @@
+[
+  {
+    "outputFileName": "css/Index.css",
+    "inputFiles": [
+      "css/Index.css"
+    ]
+  },
+  {
+    "outputFileName": "css/bootstrap.css",
+    "inputFiles": [
+      "css/bootstrap.css"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+]
