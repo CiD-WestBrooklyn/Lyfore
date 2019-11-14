@@ -1,3 +1,4 @@
 {
-  "stack": "heroku-16"
+    "name": "Lyfore",
+    "stack": "heroku-16"
 }
