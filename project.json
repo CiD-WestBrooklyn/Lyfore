@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "Microsoft.NETCore.App": {
+    "Microsoft.NETCore": {
       "version": "2.2.7",
       "type": "platform"
     },
@@ -35,7 +35,7 @@
     "netcoreapp2.2": {
       "imports": [
         "dotnet5.6",
-        "portable-net461"
+        "net461"
       ]
     }
   },
